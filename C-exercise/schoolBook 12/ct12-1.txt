@@ -1,0 +1,8 @@
+10001 huangjie 280
+10002 pangyana  5800
+10003 xiaobaobei1 71
+10004 xiaobaobei2 711
+10005 xiaobaobei3 123
+10006 xiaobaobei4 74
+10007 xiaobaobei5 556
+10008 xiaobaobei6 115

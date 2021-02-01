@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdio": "c",
+        "limits.h": "c",
+        "heheheheh.h": "c",
+        "cctype": "cpp",
+        "math.h": "c",
+        "XT6-1.C": "cpp",
+        "xt6-2.C": "cpp",
+        "CT12-4.C": "cpp"
+    }
+}
